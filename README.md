@@ -1,4 +1,4 @@
-# _includes
+# chem-308-portfolio
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
